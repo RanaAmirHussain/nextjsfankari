@@ -1,0 +1,2 @@
+# nextjsfankari
+NextJsKiNewFankariyan
